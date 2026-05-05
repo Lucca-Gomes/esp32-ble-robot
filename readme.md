@@ -72,5 +72,4 @@ Ambos utilizam o mesmo código, alterando apenas o nome do dispositivo BLE.
 
 ## 📌 Autores
 
-Lucca Gomes Ramos
-Rafael Seragioli
+Lucca Gomes Ramos | Rafael Seragioli
