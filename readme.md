@@ -64,12 +64,6 @@ Ambos utilizam o mesmo código, alterando apenas o nome do dispositivo BLE.
 
 ---
 
-## 📸 Demonstração
-
-(Adicione aqui imagens ou vídeos do robô funcionando)
-
----
-
 ## 📌 Autores
 
 Lucca Gomes Ramos | Rafael Seragioli
